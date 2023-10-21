@@ -13,7 +13,7 @@
     <center>
         <div class="banner">
             <img src="resources/banner.png" alt="">
-            </div|>
+        </div>
     </center>
 
     <center>
