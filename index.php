@@ -48,7 +48,7 @@
                 <label for="pago">Não</label><br>
             </div>
 
-            <button type="submit">Salvar</button>
+            <button type="submit">Salvar Tudo</button>
         </form>
     </center>
 
