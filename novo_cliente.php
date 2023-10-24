@@ -36,7 +36,7 @@
                 <div class="formulario">
 
                     <input type="text" required name="nome" placeholder="Nome" maxlength="40">
-                    <input type="text" required name="telefone" id="telefone" placeholder="Telefone: Ex: (XX)XXXXXXXXX">
+                    <input type="text" required name="telefone" id="telefone" placeholder="Telefone: Ex: (XX)XXXXX-XXXX">
                     <input type="email" required name="email" placeholder="E-mail" maxlength="40">
                     <input type="text" required name="endereco" placeholder="Endereço" maxlength="60">
                 </div>
