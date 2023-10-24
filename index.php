@@ -22,8 +22,10 @@
 
         <div class="menu">
             <aside>
+                <a href="novo_cliente.php">Inserir Novo Cliente</a>
+                <a href="index.php">Inserir Nova Venda</a>
                 <a href="">Inserir Novo Cliente</a>
-                <a href="">Inserir Nova Venda</a>
+                <a href="">Clientes Registrados</a>
                 <a href="">Vendas Registradas</a>
             </aside>
         </div>
